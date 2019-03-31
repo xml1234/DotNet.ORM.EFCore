@@ -3,3 +3,9 @@
 ################################################################################
 
 /EFCore/.vs/EFCore
+/EFCore/EFCore.Models/obj
+/EFCore/EFCore.Models/bin/Debug/netcoreapp2.1
+/EFCore/EFCore.Data/obj/Debug/netcoreapp2.1
+/EFCore/EFCore.Data/bin/Debug/netcoreapp2.1
+/EFCore/EFCore.Web/bin/Debug/netcoreapp2.1
+/EFCore/EFCore.Web/obj
