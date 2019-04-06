@@ -20,5 +20,7 @@ namespace EFCore.DomainModels
         public Province Province { get; set; }
 
         public List<CityCompany> CityCompanies { get; set; }
+
+        public Mayor Mayor { get; set; }
     }
 }

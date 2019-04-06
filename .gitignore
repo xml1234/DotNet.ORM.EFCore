@@ -9,3 +9,7 @@
 /EFCore/EFCore.Data/bin/Debug/netcoreapp2.1
 /EFCore/EFCore.Web/bin/Debug/netcoreapp2.1
 /EFCore/EFCore.Web/obj
+/EFCore/EFCore.Web/wwwroot/css
+/EFCore/EFCore.Web/wwwroot/images
+/EFCore/EFCore.Web/wwwroot/js
+/EFCore/EFCore.Web/wwwroot/lib

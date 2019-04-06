@@ -2,8 +2,10 @@
 
 namespace EFCore.DomainModels
 {
-    public class Person
+    public class Mayor
     {
+        public int CityId { get; set; }
+
         public int Id { get; set; }
 
         public string FirstName { get; set; }
@@ -13,5 +15,7 @@ namespace EFCore.DomainModels
         public DateTime BirthDate { get; set; }
 
         public Gender Gender { get; set; }
+
+        public City City { get; set; }
     }
 }
