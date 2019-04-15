@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "name": "demo",
+  "private": true,
+  "devDependencies": {
+  },
+  "dependencies": {
+    "bootstrap": "4.2.1" 
+  }
+}

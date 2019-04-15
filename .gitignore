@@ -13,3 +13,9 @@
 /EFCore/EFCore.Web/wwwroot/images
 /EFCore/EFCore.Web/wwwroot/js
 /EFCore/EFCore.Web/wwwroot/lib
+/EFCore/Demo.Web/bin/Debug/netcoreapp2.1
+/EFCore/Demo.Web/obj
+/EFCore/Demo.Web/node_modules/bootstrap
+/EFCore/Redis.Web/bin/Debug/netcoreapp2.1
+/EFCore/Redis.Web/obj
+/EFCore/Redis.Web/wwwroot/lib
